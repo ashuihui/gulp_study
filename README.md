@@ -1,5 +1,5 @@
-# sass_study
-sass_study
+# gulp use
+gulp use
 ## gulp
 ```npm i -D gulp```
 ## gulp-sass
