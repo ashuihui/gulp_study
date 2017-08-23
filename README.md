@@ -2,6 +2,7 @@
 gulp use
 ## gulp
 ```npm i -D gulp```
+```npm i -g gulp```
 ## gulp-sass
 ```npm i -D gulp-sass```
 sass转换CSS
